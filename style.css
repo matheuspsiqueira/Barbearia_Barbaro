@@ -324,11 +324,7 @@ tbody{
     table{
         position: static;
         margin: auto;
-        padding-left: 200px;
-    }
-
-    footer{
-        margin-top: 20px;
+        padding: 0 0 200px 200px;
     }
 
 }
