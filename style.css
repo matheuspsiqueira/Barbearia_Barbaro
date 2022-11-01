@@ -41,6 +41,12 @@ nav a:hover{
     text-decoration: underline;
 }
 
+/* CSS da página produtos*/
+
+.fundo-gradiente{
+    background: linear-gradient(#FEFEFE, #888888);
+}
+
 .produtos{
     width: 940px;
     margin: 0 auto;
@@ -96,6 +102,8 @@ footer{
     font-size: 13px;
     margin-top: 20px
 }
+
+/* CSS da página contato */
 
 .alinhamento{
     width: 940px;
@@ -153,6 +161,10 @@ thead{
 td, th{
     border: 1px solid black;
     padding: 10px 15px;
+}
+
+tbody{
+    background: #FEFEFE;
 }
 
 /* CSS da página inicial*/
